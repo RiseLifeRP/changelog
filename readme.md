@@ -1,4 +1,4 @@
-@v0.1.0
+@v0.1.1
 Ausführliche Informationen zu den neuen Systemen findest du im Discord.
 
 [Maps]
@@ -27,3 +27,4 @@ Ausführliche Informationen zu den neuen Systemen findest du im Discord.
 - Neue Steckdosen eingefügt (600+)
 - Portemonnaie eingefügt
 - Schlüsselbund eingefügt
+- Digitale Infrastruktur verbessert
