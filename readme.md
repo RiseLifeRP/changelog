@@ -1,4 +1,4 @@
-@v0.1.1
+@v0.1.2
 Ausführliche Informationen zu den neuen Systemen findest du im Discord.
 
 [Maps]
